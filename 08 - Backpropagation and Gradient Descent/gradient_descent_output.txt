@@ -1,0 +1,223 @@
+Training on device cpu.
+
+   Global parameters:
+batch_size =  256
+n_epoch =  30
+loss_fn =  CrossEntropyLoss()
+seed =  265
+
+ =========================================================
+   Current parameters:
+lr = 0.01
+mom = 0
+decay = 0
+
+ --------- Using Pytorch's SGD ---------
+15:27:35.605270  |  Epoch 1  |  Training loss 0.68093
+15:27:40.688064  |  Epoch 5  |  Training loss 0.54943
+15:27:47.054778  |  Epoch 10  |  Training loss 0.46524
+15:27:53.257568  |  Epoch 15  |  Training loss 0.42144
+15:27:59.615822  |  Epoch 20  |  Training loss 0.38399
+15:28:04.971721  |  Epoch 25  |  Training loss 0.35094
+15:28:10.766444  |  Epoch 30  |  Training loss 0.31793
+
+ --- Accuracies ---
+Training
+Accuracy: 0.88
+Validation
+Accuracy: 0.83
+
+ --------- Using manual update ----------
+15:28:13.014504  |  Epoch 1  |  Training loss 0.68093
+15:28:19.681324  |  Epoch 5  |  Training loss 0.54943
+15:28:26.238622  |  Epoch 10  |  Training loss 0.46524
+15:28:32.575133  |  Epoch 15  |  Training loss 0.42144
+15:28:39.409641  |  Epoch 20  |  Training loss 0.38399
+15:28:47.866196  |  Epoch 25  |  Training loss 0.35094
+15:28:54.901863  |  Epoch 30  |  Training loss 0.31793
+
+ --- Accuracies ---
+Training
+Accuracy: 0.88
+Validation
+Accuracy: 0.83
+
+ =========================================================
+   Current parameters:
+lr = 0.01
+mom = 0
+decay = 0.01
+
+ --------- Using Pytorch's SGD ---------
+15:28:56.584109  |  Epoch 1  |  Training loss 0.68103
+15:29:02.281089  |  Epoch 5  |  Training loss 0.55376
+15:29:09.971498  |  Epoch 10  |  Training loss 0.47008
+15:29:19.032535  |  Epoch 15  |  Training loss 0.42922
+15:29:28.241046  |  Epoch 20  |  Training loss 0.39408
+15:29:36.335902  |  Epoch 25  |  Training loss 0.36438
+15:29:44.158214  |  Epoch 30  |  Training loss 0.33567
+
+ --- Accuracies ---
+Training
+Accuracy: 0.87
+Validation
+Accuracy: 0.83
+
+ --------- Using manual update ----------
+15:29:47.163674  |  Epoch 1  |  Training loss 0.68103
+15:29:56.388759  |  Epoch 5  |  Training loss 0.55376
+15:30:05.207449  |  Epoch 10  |  Training loss 0.47008
+15:30:13.610137  |  Epoch 15  |  Training loss 0.42922
+15:30:21.929857  |  Epoch 20  |  Training loss 0.39408
+15:30:30.404753  |  Epoch 25  |  Training loss 0.36438
+15:30:39.078477  |  Epoch 30  |  Training loss 0.33567
+
+ --- Accuracies ---
+Training
+Accuracy: 0.87
+Validation
+Accuracy: 0.83
+
+ =========================================================
+   Current parameters:
+lr = 0.01
+mom = 0.9
+decay = 0
+
+ --------- Using Pytorch's SGD ---------
+15:30:41.131709  |  Epoch 1  |  Training loss 0.61787
+15:30:46.561217  |  Epoch 5  |  Training loss 0.36053
+15:30:53.532891  |  Epoch 10  |  Training loss 0.22891
+15:31:00.975329  |  Epoch 15  |  Training loss 0.25503
+15:31:07.768451  |  Epoch 20  |  Training loss 0.15373
+15:31:14.622177  |  Epoch 25  |  Training loss 0.16546
+15:31:21.671228  |  Epoch 30  |  Training loss 0.07555
+
+ --- Accuracies ---
+Training
+Accuracy: 0.97
+Validation
+Accuracy: 0.83
+
+ --------- Using manual update ----------
+15:31:23.931476  |  Epoch 1  |  Training loss 0.61787
+15:31:30.849225  |  Epoch 5  |  Training loss 0.36053
+15:31:39.036897  |  Epoch 10  |  Training loss 0.22891
+15:31:47.561861  |  Epoch 15  |  Training loss 0.25503
+15:31:56.124781  |  Epoch 20  |  Training loss 0.15373
+15:32:04.366268  |  Epoch 25  |  Training loss 0.16546
+15:32:14.073238  |  Epoch 30  |  Training loss 0.07555
+
+ --- Accuracies ---
+Training
+Accuracy: 0.97
+Validation
+Accuracy: 0.83
+
+ =========================================================
+   Current parameters:
+lr = 0.01
+mom = 0.9
+decay = 0.01
+
+ --------- Using Pytorch's SGD ---------
+15:32:16.341249  |  Epoch 1  |  Training loss 0.61972
+15:32:23.350286  |  Epoch 5  |  Training loss 0.37262
+15:32:31.482353  |  Epoch 10  |  Training loss 0.26217
+15:32:40.051164  |  Epoch 15  |  Training loss 0.20043
+15:32:49.058091  |  Epoch 20  |  Training loss 0.19053
+15:32:57.452878  |  Epoch 25  |  Training loss 0.15727
+15:33:05.959197  |  Epoch 30  |  Training loss 0.08699
+
+ --- Accuracies ---
+Training
+Accuracy: 0.96
+Validation
+Accuracy: 0.84
+
+ --------- Using manual update ----------
+15:33:08.830914  |  Epoch 1  |  Training loss 0.61972
+15:33:17.195033  |  Epoch 5  |  Training loss 0.37262
+15:33:27.630327  |  Epoch 10  |  Training loss 0.26217
+15:33:39.487334  |  Epoch 15  |  Training loss 0.20043
+15:33:49.997598  |  Epoch 20  |  Training loss 0.19053
+15:33:59.917693  |  Epoch 25  |  Training loss 0.15727
+15:34:09.844068  |  Epoch 30  |  Training loss 0.08699
+
+ --- Accuracies ---
+Training
+Accuracy: 0.96
+Validation
+Accuracy: 0.84
+
+ =========================================================
+   Current parameters:
+lr = 0.01
+mom = 0.9
+decay = 0.001
+
+ --------- Using Pytorch's SGD ---------
+15:34:11.804257  |  Epoch 1  |  Training loss 0.61805
+15:34:17.670192  |  Epoch 5  |  Training loss 0.36084
+15:34:25.666121  |  Epoch 10  |  Training loss 0.22181
+15:34:33.149762  |  Epoch 15  |  Training loss 0.24899
+15:34:41.312123  |  Epoch 20  |  Training loss 0.11224
+15:34:49.423027  |  Epoch 25  |  Training loss 0.12177
+15:34:57.055142  |  Epoch 30  |  Training loss 0.05682
+
+ --- Accuracies ---
+Training
+Accuracy: 0.98
+Validation
+Accuracy: 0.83
+
+ --------- Using manual update ----------
+15:34:59.260751  |  Epoch 1  |  Training loss 0.61805
+15:35:06.841876  |  Epoch 5  |  Training loss 0.36084
+15:35:16.691645  |  Epoch 10  |  Training loss 0.22181
+15:35:28.186123  |  Epoch 15  |  Training loss 0.24899
+15:35:38.790608  |  Epoch 20  |  Training loss 0.11224
+15:35:48.491566  |  Epoch 25  |  Training loss 0.12177
+15:35:57.542884  |  Epoch 30  |  Training loss 0.05682
+
+ --- Accuracies ---
+Training
+Accuracy: 0.98
+Validation
+Accuracy: 0.83
+
+ =========================================================
+   Current parameters:
+lr = 0.01
+mom = 0.8
+decay = 0.01
+
+ --------- Using Pytorch's SGD ---------
+15:35:59.448439  |  Epoch 1  |  Training loss 0.64125
+15:36:05.807860  |  Epoch 5  |  Training loss 0.40867
+15:36:15.054189  |  Epoch 10  |  Training loss 0.31498
+15:36:25.051344  |  Epoch 15  |  Training loss 0.23144
+15:36:32.358912  |  Epoch 20  |  Training loss 0.18008
+15:36:39.851710  |  Epoch 25  |  Training loss 0.19677
+15:36:47.477805  |  Epoch 30  |  Training loss 0.14508
+
+ --- Accuracies ---
+Training
+Accuracy: 0.88
+Validation
+Accuracy: 0.80
+
+ --------- Using manual update ----------
+15:36:49.914018  |  Epoch 1  |  Training loss 0.64125
+15:36:57.391801  |  Epoch 5  |  Training loss 0.40867
+15:37:06.490094  |  Epoch 10  |  Training loss 0.31498
+15:37:16.265842  |  Epoch 15  |  Training loss 0.23144
+15:37:25.813427  |  Epoch 20  |  Training loss 0.18008
+15:37:34.834043  |  Epoch 25  |  Training loss 0.19677
+15:37:44.176163  |  Epoch 30  |  Training loss 0.14508
+
+ --- Accuracies ---
+Training
+Accuracy: 0.88
+Validation
+Accuracy: 0.80
