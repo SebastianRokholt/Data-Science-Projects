@@ -16,3 +16,5 @@ Feel free to check out my other Data Science-related projects here on GitHub as 
 
 - Hybrid Recommender System in Python, available [here](https://github.com/SebastianRokholt/Hybrid-Recommender-System)
 - E-Sports Knowledge Graph, available [here](https://github.com/Jonnashell/info216-groupproject)
+
+If you found any of these projects to be helpful or informative, please leave me a star!
