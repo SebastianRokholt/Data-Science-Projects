@@ -1,8 +1,9 @@
 # Data-Science-Projects
 
-Various data science projects I've worked on, either in my spare time or as part of my studies at the University of Bergen. Most, if not all code is written in Python. Notebooks are ordered ascendingly by completion date, so that the most recently finished project will have the highest number in the title.
+Various data science projects I've worked on, either in my spare time or as part of my studies at the University of Bergen. Most, if not all code is written in Python and are available as Jupyter Notebooks, which are ordered ascendingly by completion date s.t. the most recently finished project will have the highest number in the title.
 
-Notebooks currently available:
+Projects currently available:
+- [08 - Implementing Backpropagation and Gradient Descent with PyTorch}(https://github.com/SebastianRokholt/Data-Science-Projects/tree/master/08%20-%20Backpropagation%20and%20Gradient%20Descent)
 - [07 - Stochastic Gradient Descent for Logistic Regression](https://github.com/SebastianRokholt/Data-Science-Projects/blob/master/07%20-%20Stochastic%20Gradient%20Descent%20for%20Logistic%20Regression/07%20-%20Stochastic%20Gradient%20Descent%20for%20Logistic%20Regression.ipynb)
 - [06 - Multinomial Naive Bayes for Genre Classification](https://github.com/SebastianRokholt/Data-Science-Projects/blob/master/06%20-%20Multinomial%20Naive%20Bayes%20for%20Genre%20Classification/06%20-%20Multinomial%20Naive%20Bayes%20for%20Genre%20Classification.ipynb)
 - [05 - Predicting Property Prices for NYC with XGBoost, SVM, MLP and Linear regression](https://github.com/SebastianRokholt/Data-Science-Projects/blob/master/05%20-%20Predicting%20Property%20Prices%20for%20NYC%20with%20XGBoost%2C%20SVM%2C%20MLP%20and%20Linear%20Regression/05%20-%20Predicting%20Property%20Prices%20for%20NYC%20with%20XGBoost%2C%20SVM%2C%20MLP%20and%20Linear%20regression.ipynb)
